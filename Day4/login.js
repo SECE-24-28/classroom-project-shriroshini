@@ -4,7 +4,8 @@ document.getElementById('loginForm').addEventListener('submit', function(e) {
     const email = document.getElementById('email').value;
     const password = document.getElementById('password').value;
     const emailError = document.getElementById('emailError');
-    const passwordError = document.getElementById('passwordError');
+    const passwordError = document.getElementById('passwordError'); 
+    
     
     let valid = true;
     
