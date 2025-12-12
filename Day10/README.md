@@ -1,4 +1,4 @@
-# Day 9 - React Hook Form + Yup Validation
+# Day 10 - React Hook Form + Yup Validation
 
 ## Installation Required
 
